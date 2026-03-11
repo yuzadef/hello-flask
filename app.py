@@ -9,4 +9,9 @@ def index():
 
 
 if __name__ == "__main__":
+<<<<<<< Updated upstream
     app.run(debug=False)
+=======
+    app.run(debug=True)
+# test
+>>>>>>> Stashed changes
